@@ -8,7 +8,7 @@ HTML and CSS for AirBnb application
 * Creates style guide for CSS
 
 ## Usage
-To view each created HTML page, clone the repository including all HTML, CSS, and image files. Then open each html file
+To view each created HTML page, clone the repository including all HTML, CSS, and image files. Then open each HTML file
 in a browser. You can right-click and select developer tools to inspect the HTML pages.
 
 
